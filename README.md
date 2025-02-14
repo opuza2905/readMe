@@ -1,4 +1,4 @@
-# Hi there, I'm Opuza 👋
+# Hi there, I'm aK89 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing projects.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 🔭 I’m currently working on enhancing my skills in full-stack development.
 - 🌱 I’m currently learning advanced concepts in machine learning and AI.
 - 👯 I’m looking to collaborate on open source projects related to desktop development and AI.
-- 💬 Ask me about web development, Python, .Net or anything tech!
+- 💬 Ask me about desktop app development, Python, .Net or anything tech!
 - 📫 How to reach me: dika.setiadi05@gmail.com
 - ⚡ Fun fact: I love playing on beach and solving puzzles.
 
